@@ -1,5 +1,7 @@
 # Boxes
 
+Mock input data to draw three boxes and simple unit test cases.
+
 ## Project setup
 ```
 npm install
